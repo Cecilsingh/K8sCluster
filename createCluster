@@ -1,7 +1,6 @@
 create three servers with the following settings:
 
 - Distribution: Ubuntu 20.04 Focal Fossa LTS
-- Size: medium
 
 # If you wish, you can set an appropriate hostname for each node.
 
